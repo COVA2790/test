@@ -1,0 +1,9 @@
+form {
+    padding: 40px 0;
+    text-align: center;
+    background: lightpink;
+}
+
+h1#name {
+    color: rgba(0,0,0,0.25);
+}
